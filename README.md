@@ -4,7 +4,7 @@
 
 Absolutely incredible and fresh-pressed Google Colab Notebook to train and generate Music with the SOTA GGA-MG (AR-CNN) Hybrid Neural Network (AI).
 
-## This is a composition augmentation AI. 
+## Amazon Deep Composer is a composition augmentation AI. 
 
 For now it is limited by 16Bars (twice the original) but I am working on fixing that and pushing it to at least 64 bars.
 
