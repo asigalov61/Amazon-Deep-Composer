@@ -20,3 +20,5 @@ https://github.com/aws-samples/aws-deepcomposer-samples
 # Into this:
 
 ![Amazon Deep Composer](https://github.com/asigalov61/Amazon-Deep-Composer/blob/master/Final%20Samples/Amazon%20Deep%20Composer%20(1).png?raw=true)
+
+[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=asigalov61&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
